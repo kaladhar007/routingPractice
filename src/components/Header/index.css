@@ -1,0 +1,32 @@
+.img_and_para_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.waveImg {
+  height: 25px;
+  width: 25px;
+}
+.wavePara {
+  font-size: 25px;
+  margin: 10px;
+  font-style: solid;
+  font-weight: 900;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+li {
+  font-weight: 900;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}

@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.notFound_main_div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.notFound_img {
+  height: 30vh;
+}
+.notFoundPara {
+  font-size: 50px;
+  font-family: 'Roboto';
+  font-weight: 900;
+}

@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.about_main_div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.about_img {
+  height: 30vh;
+}
+.aboutPara {
+  font-size: 50px;
+  font-family: 'Roboto';
+  font-weight: 900;
+  text-decoration: none;
+}
